@@ -1,7 +1,7 @@
 # Meta Front-End Developer Professional Certificate
 
 <br>
-<h6>This repo contains all of my assignments, demos, and cheat sheets from the 9 courses in the Coursera</h6> Professional Certificate: Meta Front-End Developer Professional Certificate
+<h4>This repo contains all of my assignments, demos, and cheat sheets from the 9 courses in the Coursera</h4> Professional Certificate: Meta Front-End Developer Professional Certificate
 <h1 style="color:DodgerBlue;>Table of Content</h1>
 Course 1: Introduction to Front-End Development
 Course 2: Programming with JavaScript
