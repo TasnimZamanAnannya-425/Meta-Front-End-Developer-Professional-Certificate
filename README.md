@@ -15,7 +15,7 @@ Course 9: Coding Interview Preparation
 Proof of Completion
 Not Available
 <br>
-## Course 3 : [Version Control](/C3-Version-Control/)
+
 
 
 -
